@@ -804,19 +804,34 @@
         });
     });
 
-    
-
-    // Bouton de téléchargement
+    // Bouton de téléchargement 
     document.querySelector('.download-btn').addEventListener('click', function(e) {
-        e.preventDefault();
-        const originalText = this.innerHTML;
-        this.innerHTML = '<i class="fas fa-check"></i> PDF functionality coming soon!';
+    e.preventDefault();
+    const originalText = this.innerHTML;
+    this.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Téléchargement...';
+    this.style.background = 'linear-gradient(45deg, #ff9800, #ff5722)';
+    
+    // Créer un lien de téléchargement
+    const link = document.createElement('a');
+    link.href = './CV international-4.pdf'; // Chemin vers votre fichier PDF
+    link.download = 'CV_REDWANE_AIT_BRAHIM.pdf'; // Nom du fichier téléchargé
+    link.style.display = 'none';
+    
+    // Télécharger le fichier
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    
+    // Afficher le succès
+    setTimeout(() => {
+        this.innerHTML = '<i class="fas fa-check"></i> CV téléchargé !';
         this.style.background = 'linear-gradient(45deg, #28a745, #20c997)';
         setTimeout(() => {
             this.innerHTML = originalText;
             this.style.background = 'linear-gradient(45deg, #667eea, #764ba2)';
         }, 2000);
-    });
+    }, 500);
+});
     </script>
 </body>
 </html>
