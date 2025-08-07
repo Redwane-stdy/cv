@@ -1,59 +1,72 @@
-# Portfolio - Redwane Ait Brahim
+# Redwane AITBRAHIM
 
-# À propos
+**Software Engineering Student**  
+Paris, France  
+redwane.aitbrahim67@gmail.com  
++33 7 67 33 66 12  
+[LinkedIn](https://www.linkedin.com/in/redwane-ait-brahim-6782362a0)  
+[Portfolio](https://redwane-stdy.github.io/cv/)
 
-Étudiant ingénieur à Telecom Sud Paris - Institut Polytechnique de Paris. Ce site web présente mes compétences, projets et expériences.
+---
 
-- Application de vote sécurisée (Java)
-- Application de messagerie chiffrée
-- Réseaux complexes en C
-- Développement de jeu Unity
-- Formalisation en Coq
-- Système d'exploitation xv6
+## Profile
 
-# 🎓 Formation
-- Master Ingénierie Informatique - Télécom SudParis
-- Classe préparatoire Maths-Physique
-- Baccalauréat Scientifique
+Computer Science Engineering student at **Télécom SudParis – Institut Polytechnique de Paris**.  
+Looking for a **6-month software engineering internship** starting **February 2026**.
 
-# Éxperiences pro & asso
-- Vice-Président KRYPTOSPHERE
-- Bénévole INT'ERVENIR
-- Service Civique en tant que Coach de Football
+---
 
-## ⚙️ Personnalisation
+## Education
 
-Pour personnaliser ce portfolio :
+### Master of Engineering in Computer Science  
+**Télécom SudParis – Institut Polytechnique de Paris**  
+*2023 – 2025, Palaiseau, France*  
+- Specialization: Software Engineering  
+- Key Courses: Advanced Algorithms, Software Architecture, Cybersecurity, Formal Methods
 
-1. **Informations personnelles** : Modifiez les données dans la section hero
-2. **Projets** : Ajoutez/modifiez vos projets dans la section projets
-3. **Compétences** : Mettez à jour la liste des compétences
-4. **Couleurs** : Modifiez les variables CSS pour changer le thème
-5. **CV** : Remplacez le contenu de la fonction `downloadCV()` par vos informations
+### CPGE MP (Mathematics and Physics Preparatory Class)  
+**Lycée Jean-Bart**  
+*2021 – 2023, Dunkerque, France*  
+- Intensive preparation for French engineering schools
 
-# Responsive Design
+---
 
-Le portfolio est optimisé pour :
-- 📱 Mobile (< 768px)
-- 📟 Tablette (768px - 1024px)
-- 💻 Desktop (> 1024px)
+## Skills
 
-## 🔧 Fonctionnalités JavaScript
+**Programming Languages:** Java, C/C++, C#, Python, SQL, Coq  
+**Tools & Frameworks:** Git, UML, Unity3D, JUnit, Spring Boot, .NET Framework  
+**Networking & Security:** TCP/IP, Socket Programming, Encryption, Network Security, Cybersecurity  
+**Software Engineering:** Agile/Scrum, TDD, OOP, Design Patterns, Blockchain, Solidity, Multi-threading, Formal Methods
 
-- Navigation fluide entre sections
-- Téléchargement automatique du CV
-- Animations au scroll
-- Gestion responsive du menu
+---
 
-## 📞 Contact
+## Experience
 
-- **Email** : redwane.aitbrahim67@gmail.com
-- **Téléphone** : +33 7 67 33 66 12
-- **GitHub** : [redwane-stdy](https://github.com/redwane-stdy)
-- **Localisation** : Paris, France
+### Software Developer Intern  
+**INFOSYSCOM** – *June 2025 – Present*  
+- Designed a secure messaging app with end-to-end encryption  
+- Ensured compliance with ISO 27001 and GDPR  
+- Worked in Agile teams with cross-functional collaboration
 
-## 🎯 Recherche d'opportunités
+### Research Developer | Projet CASSIOPE  
+**Télécom SudParis – IP Paris** – *2025*  
+- Implemented algebraic structures and formal semantics in Coq  
+- Built functional prototypes using functional programming  
+- Contributed to research in theoretical computer science
 
-Actuellement à la recherche d'un **stage de fin d'études de 6 mois** à partir de **février 2026** dans les domaines :
-- Développement logiciel
-- Gestion de projets techniques
+### Full-Stack Developer (Academic Projects)  
+**Télécom SudParis – IP Paris**  
+- Analyzed and modified xv6 OS kernel (C/C++)  
+- Built client-server applications (C/C++, Sockets)  
+- Developed secure voting system (Java, Design Patterns)  
+- Created a 3D interactive game (Unity3D / C#)  
+- Designed formal verification model using B method
+
+---
+
+## Languages
+
+- **French**: Native  
+- **English**: Fluent
+- **German**: Basic
+
