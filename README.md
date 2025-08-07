@@ -7,14 +7,12 @@ redwane.aitbrahim67@gmail.com
 [LinkedIn](https://www.linkedin.com/in/redwane-ait-brahim-6782362a0)  
 [Portfolio](https://redwane-stdy.github.io/cv/)
 
----
 
 ## Profile
 
 Computer Science Engineering student at **Télécom SudParis – Institut Polytechnique de Paris**.  
 Looking for a **6-month software engineering internship** starting **February 2026**.
 
----
 
 ## Education
 
@@ -29,7 +27,6 @@ Looking for a **6-month software engineering internship** starting **February 20
 *2021 – 2023, Dunkerque, France*  
 - Intensive preparation for French engineering schools
 
----
 
 ## Skills
 
@@ -38,7 +35,6 @@ Looking for a **6-month software engineering internship** starting **February 20
 **Networking & Security:** TCP/IP, Socket Programming, Encryption, Network Security, Cybersecurity  
 **Software Engineering:** Agile/Scrum, TDD, OOP, Design Patterns, Blockchain, Solidity, Multi-threading, Formal Methods
 
----
 
 ## Experience
 
@@ -62,7 +58,6 @@ Looking for a **6-month software engineering internship** starting **February 20
 - Created a 3D interactive game (Unity3D / C#)  
 - Designed formal verification model using B method
 
----
 
 ## Languages
 
